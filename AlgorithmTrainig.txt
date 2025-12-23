@@ -24,3 +24,5 @@ Helps beginners understand how programs think
 Easier than jumping directly into real code
 To design algorithms
 
+3.
+To write pseudocode to represent an algorithm, first understand the problem and identify the inputs, processing steps, and outputs, then begin with START and end with END, write each step of the algorithm in logical order using simple, clear English, use common keywords such as INPUT, SET, IF–ELSE, WHILE or FOR for decisions and loops, keep the statements short and easy to read, and use indentation to show the structure so the algorithm’s flow is clear and can be easily translated into any programming language.
