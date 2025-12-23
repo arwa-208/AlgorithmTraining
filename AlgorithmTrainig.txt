@@ -1,0 +1,4 @@
+1. 
+
+Pseudocode (often written as pseudo code) is an informal, human-readable way to describe an algorithm or program logic without using the strict syntax of any programming language.
+Pseudocode explains what the program should do, not how to write it in a specific language.
