@@ -2,3 +2,25 @@
 
 Pseudocode (often written as pseudo code) is an informal, human-readable way to describe an algorithm or program logic without using the strict syntax of any programming language.
 Pseudocode explains what the program should do, not how to write it in a specific language.
+
+2.
+Why use pseudocode?
+To plan program logic before coding
+To understand algorithms easily
+To communicate ideas between programmers and non-programmers
+To avoid syntax errors while thinking about logic
+When do we use pseudocode?
+
+Before writing code
+
+To plan the solution step-by-step
+To avoid mistakes in logic
+
+Example: planning an algorithm before coding in C#
+
+When learning programming
+
+Helps beginners understand how programs think
+Easier than jumping directly into real code
+To design algorithms
+
